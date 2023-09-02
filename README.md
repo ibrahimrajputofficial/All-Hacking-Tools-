@@ -22,7 +22,7 @@ Updates coming soon
 
 ` apt install git -y `
 
-` git clone https://github.com/DRACULA-HACK/C-hacks `
+` git clone [(https://github.com/ibrahimrajputofficial/All-Hacking-Tools-/blob/main/chack.sh) `
 
 ` cd C-hacks `
 
